@@ -16,13 +16,13 @@ This plugin is free but if you use it in a commercial project please consider
 
 ### Download
 
-[Download the files](https://github.com/texnixe/kirby3-codepen/archive/master.zip) and place them inside `site/plugins/kirby-similar`.
+[Download the files](https://github.com/texnixe/kirby3-codepen/archive/master.zip) and place them inside `site/plugins/kirby-codepen`.
 
 ### Git Submodule
 You can add the plugin as a Git submodule.
 
     $ cd your/project/root
-    $ git submodule add https://github.com/texnixe/kirby3-codepen.git site/plugins/kirby-similar
+    $ git submodule add https://github.com/texnixe/kirby3-codepen.git site/plugins/kirby-codepen
     $ git submodule update --init --recursive
     $ git commit -am "Add Kirby CodePen plugin"
 
