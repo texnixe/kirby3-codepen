@@ -1,0 +1,21 @@
+{
+    "name": "texnixe/kirby3-codepen",
+    "description": "Kirby 3 plugin providing a Kirbytag (shortcode) for CodePen embeds",
+    "version": "0.9.0",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sonja Broda",
+            "email": "info@texniq.de"
+        }
+    ],
+    "keywords": [
+        "kirby3",
+        "kirby3-cms",
+        "kirby3-plugin"
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    }
+}
