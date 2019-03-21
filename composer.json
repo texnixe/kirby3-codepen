@@ -1,7 +1,7 @@
 {
     "name": "texnixe/kirby3-codepen",
     "description": "Kirby 3 plugin providing a KirbyTag for CodePen embeds",
-    "version": "0.9.2",
+    "version": "0.9.3",
     "type": "kirby-plugin",
     "license": "MIT",
     "authors": [

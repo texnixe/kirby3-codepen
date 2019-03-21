@@ -5,7 +5,7 @@ namespace texnixe\codepen;
 /**
  * Kirby 3 CodePen Embeds
  *
- * @version   0.9.2
+ * @version   0.9.3
  * @author    Sonja Broda <info@texniq.de>
  * @copyright Sonja Broda <info@texniq.de>
  * @link      https://github.com/texnixe/kirby3-codepen
